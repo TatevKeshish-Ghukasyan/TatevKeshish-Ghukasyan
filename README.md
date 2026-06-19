@@ -6,35 +6,27 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows_terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge\&logo=insomnia\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge\&logo=plotly\&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
